@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="365e4c88-1906-4af8-9ac3-ea86228d3cb6" name="Default" comment="fixed icon and some other minor code, still need to do fix navbar and margin in menu">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
+    <list default="true" id="365e4c88-1906-4af8-9ac3-ea86228d3cb6" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="layout-challenge.iws" />
@@ -208,7 +207,11 @@
       <created>1413775632491</created>
       <updated>1413775632491</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fixed nav bar issues, still need to fix menu section">
+      <created>1413777021557</created>
+      <updated>1413777021557</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -253,7 +256,8 @@
     <MESSAGE value="hell yeah" />
     <MESSAGE value="changed p to adress" />
     <MESSAGE value="fixed icon and some other minor code, still need to do fix navbar and margin in menu" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed icon and some other minor code, still need to do fix navbar and margin in menu" />
+    <MESSAGE value="fixed nav bar issues, still need to fix menu section" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed nav bar issues, still need to fix menu section" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
